@@ -1,0 +1,140 @@
+/* 
+  Localizable.strings
+  
+
+  Created by User on 4/7/15.
+
+*/
+
+"header_title_tustus" = "TusTus";
+"header_title_phone_number" = "רישום";
+"header_title_forgot_phone_number" = "שכחת ססמה";
+"header_title_code" = "רישוםקוד";
+"header_title_signup" = "הירשם";
+"header_title_select_date_time" = "נא בחר תאריך ושעה";
+"header_title_pick_date_time" = "בחר תאריך ושעה";
+"header_title_add_contact" = "איש קשר";
+"header_title_booking_item" = "מה שולחים?";
+"header_title_delivery_address" = "כתובת יעד";
+"header_title_delivery_history" = "היסטוריה";
+"header_title_my_profile" = "החשבון שלי";
+"header_title_pickup_address" = "כתובת איסוף";
+"header_title_search_address" = "חפש כתובת";
+"header_title_select_service_category" = "איזה כלי רכב יתאים למשימה?";
+"header_title_setting" = "הגדרות";
+"header_title_total_page" = "סיכום הזמנה";
+"header_title_contacts" = "אנשי קשר";
+"header_title_inventory_items" = "בחר פריטים";
+
+"hint_phone_number" = "מספר טלפון";
+"hint_password" = "ססמה";
+"hint_cfm_password" = "אשר ססמה";
+"hint_mobile_number" = "מספר טלפון";
+"hint_id_number" = "מספר ת.ז.";
+"hint_email" = "דואייל";
+"hint_full_name" = "שם מלא";
+"hint_address" = "כתובת";
+"hint_apartment" = "דירה";
+"hint_floor" = "קומה";
+"hint_person_name" = "שם פרטי/חברה";
+"hint_person_phone" = "מספר טלפון";
+"hint_sms_phone"="הזן מס לקבלת אישור מסירה";
+"hint_search" = " חפש לפי שם איש קשר";
+"hint_comment" = "האם יש לך משהו להוסיף?";
+"hint_type_address_here" = "; נא הקלד רחוב ומספר בית";
+
+
+"comment_remember_me" = "זכור אותי";
+"comment_forgot_password" = "שכחת את ססמתך?";
+"comment_phone_number" = "נא הזן את מספר הטלפון שלך, מספר טלפון זה ישמש כשם המשתמש שלך";
+"comment_code" = "נא הזן את קוד האימות";
+"comment_privacy" = "הנך מסכים לתנאי השימוש ולמדיניות הפרטיות שלנו";
+"comment_failed" = "שגיאה";
+"comment_delivery" = "שליחות";
+"comment_want_send" = "מה שולחים?";
+"comment_urgency" = "דחיפות";
+"comment_number_items" = "מספר הפריטים";
+"comment_from_me" = "ממני";
+"comment_elevator" = "מעלית";
+"comment_booking_date" = "הוזמן ל";
+"comment_double" = "הלוך חזור";
+"comment_alert_disabled" = "בטל התראות";
+"comment_delivery_type" = "- באמצעות";
+"comment_pickup_location" = "- כתובת איסוף";
+"comment_delivery_location" = "- כתובת יעד";
+"comment_comment" = "- הערה";
+"comment_option" = "- אפשרויות";
+"comment_amount_items" = "- מספר הפריטים";
+"comment_price" = "מחיר";
+"comment_to_me" = "אלי";
+"comment_waiting_deliveries" = "שליחויות בהמתנה";
+"comment_amount_item" = "מספר הפריטים";
+"comment_nis" = "שח";
+"comment_forgot_phone_number" = "נא הקלד את מספר הטלפון שלך ונשלח את הססמה לדואייל השייך לחשבון זה";
+"comment_signup_privacy" = "אני מסכים לתנאי השימוש ולמדיניות הפרטיות באתר זה";
+"comment_paypal_description%@%@" = "התקבלה שליחות חדשה מאת (@%) אל (%@).";
+
+"pop_menu_select" = "בחר";
+"pop_menu_edit" = "ערוך";
+"pop_menu_remove" = "מחק";
+"pop_menu_cancel" = "בטל";
+
+"dlg_success_order" = "הזמנתך נקלטה במערכת";
+"dlg_holiday" = "נשוב לעבודה ביום ראשון בשעה שש בבוקר ,טוסטוס מאחלת שבת שלום";
+"dlg_success_accept" = "הזמנתך נקלטה עייי שליח טוסטוס";
+"dlg_success_implement" = "הזמנתך נאספה עייי שליח טוסטוס";
+"dlg_fail_calculation" = "הכתובת שבחרת אינה נכונה או שהגישה לשרתי גוגל לא אפשרית כעת, נא בצע הזמנה חוזרת.";
+
+"title_login" = "הכנס";
+"title_signup" = "הירשם";
+"title_done" = "בצע";
+"title_back" = "חזור";
+"title_home" = "בית";
+"title_create_account" = "צור חשבון";
+"title_rewind" = "חזור";
+"title_continue" = "המשך";
+"title_cancel" = "בטל";
+"title_select" = "בחר";
+"title_save" = "שמור";
+"title_next" = "הבא";
+"title_add" = "הוסף";
+"title_choose_from_contact_list" = "בחר מאנשי קשר";
+"title_add_to_contact_list" = "הוסף לאנשי קשר";
+"title_edit" = "ערוך";
+"title_scooter" = "קטנוע";
+"title_car" = "רכב";
+"title_moving" = "הובלות";
+"title_instant_booking" = "  הזמנה מיידית  ";
+"title_future_booking" = "  הזמנה עתידית  ";
+"title_order" = "הזמן ושלם";
+"title_order_freepayment" = "הזמן";
+"title_choosing_date" = "בחר תאריך";
+
+
+"menu_booking" = "הזמן שליחות";
+"menu_history" = "היסטורית הזמנות";
+"menu_setup_payment" = "אמצעי תשלום";
+"menu_my_profile" = "החשבון שלי";
+"menu_contacts" = "אנשי קשר";
+"menu_share" = "שתף";
+"menu_call_us" = "התקשר אלינו";
+"menu_setting" = "הגדרות";
+"menu_Logout" = "צא";
+
+"text_now" = "עכשיו";
+"text_login" = "נכנס למערכת";
+"text_please_wait" = "... נא המתן";
+"text_profile_savings" = "מבצ שמירה, נא המתן";
+"text_signup" = "... מבצע רישום, נא המתן";
+"text_adding_to_contact_list" = "הוסף איש קשר";
+"text_share_message" = "הצטרף למהפיכת שליחויות והובלות עם TusTus. לביקור באתר לחץ www.TusTus.co. להורדת האפליקציה: www.tustus.co/android";
+
+"push_cancel%@%@" = "המשלוח מ @% אל @% בוטל.";
+"push_new%@%@%@%@" = "התקבלה שליחות חדשה מאת (@%) (@%) אל (%@) (%@).";
+"push_auto_cancel%@%@" = "לא נמצא שליח פנוי לשליחותך מ @% אל @% ולכן הוא בוטל. נא נסה שוב מאוחר יותר.";
+"push_new_truck %@%@%@%@" = "התקבלה הובלה חדשה מאת (@%) מהכתובת (@%) אל (@%) מכתובת (%@).";
+
+"city_name" = "הקלד את הכתובת כאן";
+
+"text_total_message_paragraph_one" = "התקבלה שליחות חדשה מאת";
+"text_total_message_paragraph_two" = "אל";

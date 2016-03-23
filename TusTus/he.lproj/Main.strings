@@ -1,0 +1,21 @@
+
+/* Class = "IBUIButton"; normalTitle = "Sign up"; ObjectID = "2ci-Wx-wxM"; */
+"2ci-Wx-wxM.normalTitle" = "הירשם";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password?"; ObjectID = "5Ax-lx-np1"; */
+"5Ax-lx-np1.normalTitle" = "שכחת את ססמתך?";
+
+/* Class = "IBUILabel"; text = "Remember me"; ObjectID = "7tr-rz-hMt"; */
+"7tr-rz-hMt.text" = "זכור אותי";
+
+/* Class = "IBUITextField"; placeholder = "Phone number"; ObjectID = "AE9-u2-syd"; */
+"AE9-u2-syd.placeholder" = "מספר טלפון";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "Fo1-hl-Jcr"; */
+"Fo1-hl-Jcr.placeholder" = "ססמה";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "Iti-gA-ImN"; */
+"Iti-gA-ImN.normalTitle" = "הכנס";
+
+/* Class = "IBUILabel"; text = "TusTus"; ObjectID = "X0W-Fv-1yG"; */
+"X0W-Fv-1yG.text" = "TusTus";

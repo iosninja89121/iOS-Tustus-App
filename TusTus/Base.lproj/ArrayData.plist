@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>spinnerWannaSend</key>
+	<array>
+		<string>Envelop</string>
+		<string>A4 box</string>
+		<string>(50×50×50) box</string>
+		<string>(150×150×150) box</string>
+	</array>
+	<key>spinnerUrgency</key>
+	<array>
+		<string>Up to 4 hours</string>
+		<string>Up to 2 hours</string>
+	</array>
+	<key>status_category</key>
+	<array>
+		<string>Booked</string>
+		<string>Accepted</string>
+		<string>Picked up</string>
+		<string>Completed</string>
+		<string>Cancelled</string>
+	</array>
+	<key>spinnerCategory</key>
+	<array>
+		<string>Scooter</string>
+		<string>Car</string>
+		<string>Moving</string>
+	</array>
+	<key>inventory_array</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Bicycle</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fitness bicycle</string>
+			<key>price</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1 door closet</string>
+			<key>price</key>
+			<integer>117</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>2 door closet</string>
+			<key>price</key>
+			<integer>130</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>3 door closet</string>
+			<key>price</key>
+			<integer>180</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>4 door closet</string>
+			<key>price</key>
+			<integer>200</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>5 door closet</string>
+			<key>price</key>
+			<integer>230</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>6 door closet</string>
+			<key>price</key>
+			<integer>240</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Shoe closet</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Fitness Treadmill</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vitrine</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV over 42 inches</string>
+			<key>price</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>TV up to 42 inches</string>
+			<key>price</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Beehive</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Armchair</string>
+			<key>price</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>fan</string>
+			<key>price</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Briefcase</string>
+			<key>price</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Breakfast Salon</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Double mattress</string>
+			<key>price</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Single mattress</string>
+			<key>price</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Computer</string>
+			<key>price</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>1.5 bed</string>
+			<key>price</key>
+			<integer>55</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Double bed</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Double bed + box</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Baby bed</string>
+			<key>price</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Laundry drying machine</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Washing Machine</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dishwasher Machine</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Microwave machine</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Stereo</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Freezer</string>
+			<key>price</key>
+			<integer>90</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Refrigerator less than 300 liters</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Refrigerator 300 liters</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Refrigerator 400 liters</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Refrigerator 500 liters</string>
+			<key>price</key>
+			<integer>90</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Refrigerator 600 liters</string>
+			<key>price</key>
+			<integer>115</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Laundry basket</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Salon 2 places</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Salon 3 places</string>
+			<key>price</key>
+			<integer>70</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Lamppost</string>
+			<key>price</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Dining</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Piano</string>
+			<key>price</key>
+			<integer>380</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carton 100 * 100 * 100</string>
+			<key>price</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carton 25 * 25 * 25</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Carton 50 * 50 * 50</string>
+			<key>price</key>
+			<integer>17</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Radiator</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Vacuum Cleaner</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Computer table</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kitchen table</string>
+			<key>price</key>
+			<integer>55</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Kitchen table + 6 chairs</string>
+			<key>price</key>
+			<integer>120</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Coffee table</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Large chest of drawers</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Chest of drawers</string>
+			<key>price</key>
+			<integer>45</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Bag</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Picture</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Wall oven / baking</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

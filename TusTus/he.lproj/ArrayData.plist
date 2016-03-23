@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>spinnerWannaSend</key>
+	<array>
+		<string>מעטפה</string>
+		<string>קופסת A4</string>
+		<string>פריט עד נפח (50×50×50)</string>
+		<string>פריט עד נפח (150×150×150)</string>
+	</array>
+	<key>spinnerUrgency</key>
+	<array>
+		<string>עד ארבע שעות</string>
+		<string>עד שעתיים</string>
+	</array>
+	<key>status_category</key>
+	<array>
+		<string>נוצר</string>
+		<string>התקבל ע&quot;י שליח</string>
+		<string>נאסף ע&quot;י שליח</string>
+		<string>בצע</string>
+		<string>בטל</string>
+	</array>
+	<key>spinnerCategory</key>
+	<array>
+		<string>קטנוע</string>
+		<string>רכב</string>
+		<string>הובלות</string>
+	</array>
+	<key>inventory_array</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>מקפיא</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מקרר 300 ליטר</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מקרר 400 ליטר</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מקרר 500 ליטר</string>
+			<key>price</key>
+			<integer>95</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מקרר 600 ליטר</string>
+			<key>price</key>
+			<integer>115</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>תנור גומחה/אפיה</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיקרוגל</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מייבש כביסה</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מכונת כביסה</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מדיח כלים</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>סל כביסה</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>טלוויזיה מעל 42 אינץ</string>
+			<key>price</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>טלוויזיה עד 42 אינץ</string>
+			<key>price</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>רדיאטור</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מאורר</string>
+			<key>price</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שואב אבק</string>
+			<key>price</key>
+			<integer>20</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מערכת סטריאו/ק. ביתי</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מחשב</string>
+			<key>price</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מסלול ריצה</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>אופני כושר</string>
+			<key>price</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>אופניים</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שידת מגירות</string>
+			<key>price</key>
+			<integer>45</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ויטרינה</string>
+			<key>price</key>
+			<integer>50</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מזנון סלוני</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שולחן קפה</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שולחן מטבח</string>
+			<key>price</key>
+			<integer>55</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ש. פינת אוכל</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שולחן מטבח + עד 6 כיסאות</string>
+			<key>price</key>
+			<integer>120</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שולחן מחשב</string>
+			<key>price</key>
+			<integer>40</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>כוורת</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ארון 1 דלת</string>
+			<key>price</key>
+			<integer>117</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ארון 2 דלתות</string>
+			<key>price</key>
+			<integer>130</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ארון 3 דלתות</string>
+			<key>price</key>
+			<integer>180</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ארון 4 דלתות</string>
+			<key>price</key>
+			<integer>200</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ארון 5 דלתות</string>
+			<key>price</key>
+			<integer>230</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ארון 6 דלתות</string>
+			<key>price</key>
+			<integer>240</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>פסנתר</string>
+			<key>price</key>
+			<integer>380</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שידה קטנה</string>
+			<key>price</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>כורסא</string>
+			<key>price</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מזגן</string>
+			<key>price</key>
+			<integer>100</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מזוודה</string>
+			<key>price</key>
+			<integer>5</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מזרן זוגי</string>
+			<key>price</key>
+			<integer>35</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מזרן יחיד</string>
+			<key>price</key>
+			<integer>30</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיטת יחיד</string>
+			<key>price</key>
+			<integer>45</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיטה וחצי</string>
+			<key>price</key>
+			<integer>55</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיטה זוגית</string>
+			<key>price</key>
+			<integer>60</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיטה זוגית +ארגז</string>
+			<key>price</key>
+			<integer>80</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיטת קומותיים</string>
+			<key>price</key>
+			<integer>145</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מיטת תינוק</string>
+			<key>price</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ספת סלון יחיד</string>
+			<key>price</key>
+			<integer>45</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ספת סלון דו</string>
+			<key>price</key>
+			<integer>55</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>ספת סלון תלת</string>
+			<key>price</key>
+			<integer>70</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>סלון 1+2+3</string>
+			<key>price</key>
+			<integer>145</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>כסא</string>
+			<key>price</key>
+			<integer>9</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>תיק</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>תמונה</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>מזוודה</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שקית</string>
+			<key>price</key>
+			<integer>7</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>שטיח</string>
+			<key>price</key>
+			<integer>15</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>קרטון 100*100*100</string>
+			<key>price</key>
+			<integer>25</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>קרטון 25*25*25</string>
+			<key>price</key>
+			<integer>10</integer>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>קרטון 50*50*50</string>
+			<key>price</key>
+			<integer>17</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

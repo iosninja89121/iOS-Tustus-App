@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  
+
+  Created by User on 4/7/15.
+
+*/
+
+"header_title_tustus"="TusTus";
+"header_title_phone_number"="What is your phone number?";
+"header_title_forgot_phone_number"="What is your forgot phone number?";
+"header_title_code"="Code";
+"header_title_signup"="Sign up";
+"header_title_select_date_time"="Select Date and Time";
+"header_title_pick_date_time"="Pick Date and Time";
+"header_title_add_contact"="Add Contact";
+"header_title_booking_item"="Booking Item";
+"header_title_delivery_address"="Delivery Address";
+"header_title_delivery_history"="Delivery History";
+"header_title_my_profile"="My Profile";
+"header_title_pickup_address"="Pickup Address";
+"header_title_search_address"="Search Address";
+"header_title_select_service_category"="Select Service Category";
+"header_title_setting"="Setting";
+"header_title_total_page"="Total Page with Payment";
+"header_title_contacts"="Contacts List";
+"header_title_inventory_items"="Inventory Items";
+
+"hint_phone_number"="Phone number";
+"hint_password"="Password";
+"hint_cfm_password"="Confirm Password";
+"hint_mobile_number"="Mobile number";
+"hint_id_number"="ID number";
+"hint_email"="Email";
+"hint_full_name"="Full Name";
+"hint_address"="Address";
+"hint_apartment"="Apartment";
+"hint_floor"="Floor";
+"hint_person_name"="Person name / Company";
+"hint_person_phone"="Person phone";
+"hint_sms_phone"="SMS phone";
+"hint_search"="Search Address...";
+"hint_comment"="Do you have to write have something to add?";
+"hint_type_address_here"="Type the address here";
+
+"comment_remember_me"="Remember me";
+"comment_forgot_password"="Forgot Password?";
+"comment_phone_number"="Please enter your phone number";
+"comment_code"="Please enter your code";
+"comment_privacy"="By checking this box you agree to the terms of use and our privacy agreement.";
+"comment_failed"="FAILED!";
+"comment_delivery"="Delivery";
+"comment_want_send"="Want to send";
+"comment_urgency"="Urgency";
+"comment_number_items"="Number of items";
+"comment_from_me"="From Me";
+"comment_elevator"="Elevator";
+"comment_booking_date"="Booking date";
+"comment_double"="Double";
+"comment_alert_disabled"="Alert disabled";
+"comment_delivery_type"="- Delivery Type";
+"comment_pickup_location"="-Pickup Location";
+"comment_delivery_location"="-Delivery Location";
+"comment_comment"="- Comment";
+"comment_option"="- Option";
+"comment_amount_items"="- Amount of Item";
+"comment_price"="Price";
+"comment_to_me"="To Me";
+"comment_waiting_deliveries"="Watings Deliveries";
+"comment_amount_item"="Amount of Item";
+"comment_nis"="NIS";
+"comment_forgot_phone_number"="Forgot Phone number";
+"comment_signup_privacy"="By checking this box you agree to the terms of use and our privacy agreement.";
+"comment_paypal_description%@%@"="New delivery from (%@) to (%@) has been created.";
+
+"text_now"="Now";
+"text_login"="Login";
+"text_please_wait"="Please wait…";
+"text_profile_savings"="Profile Saving.  Please wait.";
+"text_signup"="Signing up.  Please wait.";
+"text_adding_to_contact_list"="Adding to Contact list";
+"text_share_message"="Hey, Check out the new TusTus app.";
+
+"dlg_success_order"="You have successfully ordered a new delivery!";
+"dlg_holiday"="It\'s holiday now, we are not working now.";
+"dlg_success_accept"="Your order has been accepted successfully by messenger.";
+"dlg_success_implement"="Your order has been implemented successfully by messenger.";
+"dlg_fail_calculation"="Your selected locations may be incorrect, or access to google service may have problem , please book delivery again.";
+
+"menu_booking"="Booking";
+"menu_history"="History";
+"menu_setup_payment"="Setup Payment";
+"menu_my_profile"="My Profile";
+"menu_contacts"="Contacts";
+"menu_share"="Share";
+"menu_call_us"="Call Us";
+"menu_setting"="Setting";
+"menu_Logout"="Logout";
+
+"pop_menu_select"="Select";
+"pop_menu_edit"="Edit";
+"pop_menu_remove"="Remove";
+"pop_menu_cancel"="Cancel";
+
+"title_login"="Login";
+"title_signup"="Sign up";
+"title_done"="Done";
+"title_back"="Back";
+"title_home"="Home";
+"title_create_account"="Create Account";
+"title_rewind"="Rewind";
+"title_continue"="CONTINUE";
+"title_cancel"="Cancel";
+"title_select"="Select";
+"title_save"="Save";
+"title_next"="Next";
+"title_add"="Add";
+"title_choose_from_contact_list"="Choose from contact list";
+"title_add_to_contact_list"="Add to contact list";
+"title_edit"="Edit";
+"title_scooter"="Scooter";
+"title_car"="Car";
+"title_moving"="Moving";
+"title_instant_booking"="  Instant Booking  ";
+"title_future_booking"="  Future Booking  ";
+"title_order"="Order";
+"title_order_freepayment"="Order Freepayment";
+"title_choosing_date"="Choosing date";
+
+
+"push_cancel%@%@"="Delivery booking from %@ to %@ has been cancelled by customer";
+"push_new%@%@%@%@"="New delivery from (%@) (%@) to (%@) (%@) has been created.";
+"push_auto_cancel%@%@"="Your delivery from %@ to %@ has been cancelled automatically";
+"push_new_truck%@%@%@%@"="New Delivery from (%@) and (%@) to (%@) and (%@).";
+
+"text_total_message_paragraph_one"="From";
+"text_total_message_paragraph_two"="To";
